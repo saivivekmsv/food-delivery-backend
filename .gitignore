@@ -1,0 +1,4 @@
+.vscode/*
+**/bin
+**/obj
+WebApplication1/tempkey.jwk
